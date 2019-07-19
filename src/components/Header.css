@@ -1,0 +1,16 @@
+#Header {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  background: #333;
+  padding: 1em;
+  display: flex;
+}
+#Header li {
+  list-style: none;
+  margin-right: 1em;
+}
+#Header li a {
+  color: white;
+  text-decoration: none;
+}
